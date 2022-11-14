@@ -35,6 +35,6 @@ Quand j'étais petite je pensais que seropositive était la même chose que le g
 
 Petite je pensais que O+ c'était seropositive.
 
-[<<précédent](https://github.com/luffypirateking "Jonathant Bajoux")|| [WILHELMI](https://github.com/LauraWlm)|| 
+[<<précédent](https://github.com/luffypirateking "Jonathant Bajoux") || [WILHELMI](https://github.com/LauraWlm)||  
 [suivant>>](https://github.com/LysieSoyez "Lysie Soyez")
 
