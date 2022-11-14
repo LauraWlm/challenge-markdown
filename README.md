@@ -30,3 +30,6 @@
 
 #### Vous pouvez toujours compter sur moi quand  
 Ayant les mêmes passions que Corentin je serait aussi disposée a aider pour des cacher des corps. Je suis aussi douée pour les blagues nulles qui servent en temps de crises existentielles à faire retomber la pression.  
+
+##### Une histoire amusante  
+Quand j'étais petite je pensais que seropositive était la même chose que le groupe sanguin O + qui est mon groupe sanguin.
