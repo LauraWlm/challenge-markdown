@@ -22,5 +22,11 @@
     * Dexter;
     * Mentalist
     * Etc.  
-* Les films:
-    *
+* Les films.
+* La photographie
+* Les animes/mangas
+* Les jeux vidéos
+* Les lives Twitch 
+
+#### Vous pouvez toujours compter sur moi quand  
+Ayant les mêmes passions que Corentin je serait aussi disposée a aider pour des cacher des corps. Je suis aussi douée pour les blagues nulles qui servent en temps de crises existentielles à faire retomber la pression.  
