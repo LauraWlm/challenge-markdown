@@ -1,6 +1,6 @@
 # challenge-markdown
 
-# Laura Wilhelmi
+# Laura Wilhelmi  
 
 *« La seule limite à notre épanouissement de demain sera nos doutes d'aujourd'hui. » Franklin Delano Roosevelt*
 
