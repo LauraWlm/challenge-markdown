@@ -31,3 +31,9 @@ Ayant les mêmes passions que Corentin je serait aussi disposée a aider pour de
 
 ##### Une histoire amusante  
 Quand j'étais petite je pensais que seropositive était la même chose que le groupe sanguin O + qui est mon groupe sanguin.
+
+###### TL;DR
+Petite je pensais que O+ c'était seropositive.
+
+[Jonathan Bajoux] (https://github.com/luffypirateking)
+[Lysie Soyez] (https://github.com/LysieSoyez)
