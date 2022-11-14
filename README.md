@@ -10,5 +10,5 @@
 
 |Date de naissance: |Genre: |Couleur préférée: |Nourriture préférée: |Ananas sur la pizza? |
 |-------------------|-------|------------------|---------------------|---------------------|
-|22/10/1993         |Femme  |Noir et vert      |Italienne et burger  |Non c'est une hérésie|
+|22/10/1993         |Femme  |Noir et vert      |Italienne et burger  |Oui [] Non[x]        |
 
