@@ -12,3 +12,9 @@
 |-------------------|-------|------------------|---------------------|---------------------|
 |22/10/1993         |Femme  |Noir et vert      |Italienne et burger  |Oui [] Non[x]        |
 
+Mes passe temps sont:
+* Les séries:
+    * Hannibal;
+    * The Vampire Diaries;
+    * The Originals;
+    
